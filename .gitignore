@@ -1,0 +1,38 @@
+
+# Archivos binarios y compilados
+bin/
+obj/
+out/
+*.exe
+*.dll
+*.pdb
+*.log
+*.cache
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Publicaciones
+publish/
+dist/
+
+# Sistema
+Thumbs.db
+Desktop.ini
+
+# Config local
+appsettings.Development.json
+
+# NuGet
+*.nupkg
+packages/
+
+# Backups / temporales
+*.bak
+*.tmp
+*.temp
