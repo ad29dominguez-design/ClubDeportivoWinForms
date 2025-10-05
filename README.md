@@ -23,12 +23,11 @@ Se utilizan formularios, controles gráficos y estructuras de datos encapsuladas
 - **Colecciones:** Listas genéricas (`List<T>`) para almacenar los objetos.
 
 5.	Clases Principales
-| Clase | Descripción | Atributos relevantes |
-|-------|--------------|----------------------|
-| `Socio` | Representa a un socio del club. | nombre, documento, cuotaPaga |
+| Clase       | Descripción                            | Atributos relevantes |
+| `Socio`     | Representa a un socio del club.        | nombre, documento, cuotaPaga |
 | `Actividad` | Representa una disciplina o actividad. | nombre, profesor, cupoMaximo |
-| `Profesor` | Instructor a cargo de una actividad. | nombre, especialidad |
-| `Club` | Administra colecciones y operaciones. | listaSocios, listaActividades |
+| `Profesor`  | Instructor a cargo de una actividad.   | nombre, especialidad |
+| `Club`      | Administra colecciones y operaciones.  | listaSocios, listaActividades |
 
 ---
 
